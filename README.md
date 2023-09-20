@@ -1,6 +1,4 @@
-# Project Name
-
-> One paragraph statement about the project.
+# Salon webpage
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,20 +6,19 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML
+- CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](coursera-html-css-indepth-week3.netlify.app)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone git@github.com:Yinkusadel/coursera-html-css-indepth-week3.git
 
 ```
 
@@ -65,14 +62,14 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@yinkusadel](https://github.com/yinkusadel)
+- Twitter: [@HashiraAdel](https://twitter.com/HashiraAdel)
+- Linkedin: [@adeleyeolayinka](https://www.linkedin.com/in/adeleye-olayinka/)
+- FreeCodeCamp: [@yinkusadel](https://www.freecodecamp.org/Yinkusadel)
 
 ## 🤝 Contributing
 
@@ -86,9 +83,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- Coursera: [@html-css-indepth-peer-graded-assignment](hhttps://www.coursera.org/learn/html-and-css-in-depth/supplement/bpM1T/subject-selectionelection)
 
 ## 📝 License
 
