@@ -113,3 +113,7 @@ footer span {
   width: 60%;
   text-align: right;
 }
+
+a:hover {
+  color: red;
+}
